@@ -96,15 +96,4 @@
   "op3": "1024",
   "op4": "1928",
   "answer": "1729"
-},
-{
-  "_id": {
-    "$oid": "663a550e16c045c2e70690c7"
-  },
-  "question": "What is the strength of CSE-A 3rd year class of SSN College",
-  "op1": "68",
-  "op2": "69",
-  "op3": "70",
-  "op4": "71",
-  "answer": "69"
 }]
